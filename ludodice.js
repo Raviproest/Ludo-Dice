@@ -37,5 +37,6 @@ function  roledice(){
     }
 }
 
-
+console.log("You Got: ");
+console.log(" ");
 roledice();
